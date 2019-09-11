@@ -3,7 +3,7 @@
     GLOBALS
 -------------------------*/
 var sections = [
-		{	sentence: " an enthusiastic developer based in India",
+		{	sentence: " an enthusiastic developer based in Boston",
 		},
 		{	sentence: " a lover of learning new things",
 		},
@@ -13,7 +13,7 @@ var sections = [
 		},
 		{	sentence: " a food hogger",
 		},
-		{	sentence: " interested in Mean Stack",
+		{	sentence: " interested in Backend Development",
 		},
 		{	sentence: " interested in Machine learning",
 		},
@@ -27,7 +27,7 @@ var sections = [
 		},
 		{	sentence: " in a hurry to graduate",
 		},
-		{	sentence: " a CETIAN",
+		{	sentence: " a Husky",
 		},
 		{	sentence: " thinking of beaches and blue water",
 		},
